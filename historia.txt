@@ -1,3 +1,5 @@
 Esto es un archivo
 
 cambio 1
+
+cambio 2
