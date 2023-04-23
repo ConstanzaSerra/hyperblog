@@ -1,5 +1,6 @@
 body
 {
+    background: #1e1f24;
     color: #333;
     text-align: center;
     font-family: "Arial";
@@ -12,6 +13,7 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background: white;
 }
 
 #container h1
@@ -27,6 +29,12 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
